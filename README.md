@@ -25,5 +25,5 @@
   Aplicativo desenvolvido com as tecnologias: 
   Java com Spring Boot no backend, TypeScript com ReactJS no frontend
   
-  ## Site do app desenvolvido:
+  ## :sparkles: Site do app desenvolvido: 
   https://dsmovie-by-lybueno.netlify.app/
