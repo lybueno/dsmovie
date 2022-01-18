@@ -27,4 +27,4 @@
   
   ## :sparkles: Site do app desenvolvido: 
   https://dsmovie-by-lybueno.netlify.app/
-  (obs: pode levar até uns 30s pra carregar)
+  ###### (obs: pode levar até uns 30s pra carregar)
