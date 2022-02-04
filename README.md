@@ -23,7 +23,8 @@
   
   ## Sobre o aplicativo:
   Aplicativo desenvolvido com as tecnologias: 
-  Java com Spring Boot no backend, TypeScript com ReactJS no frontend
+  Java com Spring Boot no backend, TypeScript com ReactJS no frontend.
+  <br>O aplicativo DSMovie consiste em um banco de filmes, os quais podem ser avaliados pelos usuários. Os filmes são exibidos em cards contendo sua foto, título, nota (com total de estrelas), o número de avaliações recebidas e um botão para o usuário registrar sua avaliação.
   
   ## :sparkles: Site do app desenvolvido: 
   https://dsmovie-by-lybueno.netlify.app/
